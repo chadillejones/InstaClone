@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im7.ezgif.com/tmp/ezgif-7-0558fdcbcf50.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im7.ezgif.com/tmp/ezgif-7-0558fdcbcf50.gif' title='Icon and Styled launch screen' width='' alt='Video Walkthrough' />
+<img src='https://im7.ezgif.com/tmp/ezgif-7-6e47466d8ba2.gif' title='Log in' width='' alt='Video Walkthrough' />
