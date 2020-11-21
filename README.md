@@ -20,7 +20,8 @@ The following **bonus** features are implemented:
 - [ ] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
-
+Take photo, caption, post it and see posts plus other previous posts
+https://imgur.com/a/XWuln6M
 Here's a walkthrough of implemented user stories:
 
 <img src='https://im7.ezgif.com/tmp/ezgif-7-0558fdcbcf50.gif' title='Icon and Styled launch screen' width='' alt='Video Walkthrough' />
