@@ -22,6 +22,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 Take photo, caption, post it and see posts plus other previous posts
 https://imgur.com/a/XWuln6M
+Sign in, sign up, and startup screen
+https://imgur.com/34bAEr3
 Here's a walkthrough of implemented user stories:
 
 <img src='https://im7.ezgif.com/tmp/ezgif-7-0558fdcbcf50.gif' title='Icon and Styled launch screen' width='' alt='Video Walkthrough' />
