@@ -10,6 +10,7 @@
 		02D46426B7383C81D0545A60 /* Pods_InstaClone.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A40483EF3A709A47392C11A /* Pods_InstaClone.framework */; };
 		19154B54B165E33A6AD4982F /* Pods_InstaClone_InstaCloneUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD3F20EC7635FD20F12B71FB /* Pods_InstaClone_InstaCloneUITests.framework */; };
 		56D4A3A4B0C8BDACFB816189 /* Pods_InstaCloneTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BD7ED8664154EBFBB296D2C7 /* Pods_InstaCloneTests.framework */; };
+		C811CC43257AE4480087A586 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C811CC42257AE4480087A586 /* CommentCell.swift */; };
 		C8773D0E2568E1BA0010D6DC /* PostCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8773D0D2568E1BA0010D6DC /* PostCellTableViewCell.swift */; };
 		C8D7EEDA2568B5EA00105D12 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D7EED92568B5EA00105D12 /* AppDelegate.swift */; };
 		C8D7EEDC2568B5EA00105D12 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D7EEDB2568B5EA00105D12 /* SceneDelegate.swift */; };
@@ -46,6 +47,7 @@
 		4A40483EF3A709A47392C11A /* Pods_InstaClone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstaClone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		72396F30D9D09DA08AD6E4E5 /* Pods-InstaClone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstaClone.release.xcconfig"; path = "Target Support Files/Pods-InstaClone/Pods-InstaClone.release.xcconfig"; sourceTree = "<group>"; };
 		BD7ED8664154EBFBB296D2C7 /* Pods_InstaCloneTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstaCloneTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C811CC42257AE4480087A586 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		C8773D0D2568E1BA0010D6DC /* PostCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCellTableViewCell.swift; sourceTree = "<group>"; };
 		C8D7EED62568B5EA00105D12 /* InstaClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8D7EED92568B5EA00105D12 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				C8D7EF202568B9AA00105D12 /* FeedViewController.swift */,
 				C8E66ACA2568C89000304D7B /* CameraViewController.swift */,
 				C8773D0D2568E1BA0010D6DC /* PostCellTableViewCell.swift */,
+				C811CC42257AE4480087A586 /* CommentCell.swift */,
 			);
 			path = InstaClone;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				C8773D0E2568E1BA0010D6DC /* PostCellTableViewCell.swift in Sources */,
 				C8D7EF212568B9AA00105D12 /* FeedViewController.swift in Sources */,
 				C8D7EEDC2568B5EA00105D12 /* SceneDelegate.swift in Sources */,
+				C811CC43257AE4480087A586 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

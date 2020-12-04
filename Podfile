@@ -9,6 +9,7 @@ target 'InstaClone' do
   pod 'Parse'
   pod 'Alamofire', '~> 4.4'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 
   target 'InstaCloneTests' do
